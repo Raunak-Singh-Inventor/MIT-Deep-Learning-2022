@@ -1,7 +1,7 @@
 # MIT-Deep-Learning-2022
-My repo for the MIT Deep Learning 2022 Youtube Course.
+My repo for the MIT Deep Learning 2022 Youtube Course. To run notebooks, click the `Open in Colab` button.
 
-Intro to TensorFlow & Music Generation Lab 1 folder: 
+Intro to TensorFlow & Music Generation Lab 1: 
 
 * Part1_TensorFlow.ipynb - cover the basics of TensorFlow
 
